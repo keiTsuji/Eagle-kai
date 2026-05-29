@@ -133,7 +133,7 @@ scores = [
     st.number_input(
         f"{p} のスコア",
         min_value=0,
-        value=75
+        value=40
     )
     for p in players
 ]
